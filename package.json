@@ -1,0 +1,19 @@
+{
+  "name": "nodex",
+  "version": "1.0.0",
+  "description": "Mi primer servidor con express",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brayan Camilo Chavarría Rivera - G2",
+  "license": "ISC"
+}
